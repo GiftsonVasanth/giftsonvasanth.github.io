@@ -234,6 +234,8 @@ input, select, textarea {
 		font-size: 0.6em;
 	}
 
+
+
 	@media screen and (max-width: 736px) {
 
 		h1 {
@@ -262,6 +264,11 @@ input, select, textarea {
 
 	}
 
+	#myImage {
+		float: right;
+		max-width: 50%;
+		height: 200px;
+	}
 	sub {
 		font-size: 0.8em;
 		position: relative;
